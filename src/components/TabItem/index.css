@@ -1,0 +1,21 @@
+.list-container-item {
+  list-style-type: none;
+  margin-right: 18px;
+}
+.tab-button {
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  margin-right: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 4px;
+  margin-right: 4px;
+  border-bottom: 2px solid #dfe2e5;
+  color: #1e293b;
+}
+.active-tab {
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 4px;
+  color: #2563eb;
+}
